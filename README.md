@@ -1,2 +1,3 @@
 # ucberkely
-My first repository on GitHub. 
+I uploaded the coupons dataset to compare and analzye when the customers accepted and when they rejected the coupons. When I saw analyzed the dataset and comparing when the customers who did not take coupons, had distinct present time patterns. When the customers did take the coupon most consumers took advantage of the vouchers, and many of them preferred cheaper venues and coffee shops. The analysis provides valuable insights into customer behavior regarding coupon acceptance in driving scenarios. Further exploration and feature engineering can enhance our understanding of the factors influencing customer decisions. It could need further research to pinpoint the precise characteristics affecting coupon acceptability.
+

@@ -1,0 +1,21 @@
+#Pie Chart - Distribution of Coupon Acceptance: Mainly tells us the overall distribution of coupon acceptance, and gives us overall percentage on which venue do customers accept the coupons vs which venue customers do not accept the coupon
+
+#Box Plot - Current Time Distribution: The Box Plot of the Current Time Distribution showed us the distribution of current time for those who accepted and rejected coupons for each venue and helped show us potential differences in the time patterns.
+
+#Bar Plot - Average Current Time: This plot shows us the average current time for those who accepted and rejected coupons for each venue and helped give us a good comparison with the time patterns.
+
+#Statistical Summaries:
+#-Descriptive Statistics - Full Dataset: Presents key metrics for relevant features, giving an overall view.
+#-Descriptive Statistics - Accepted Summary: Mainly shows the basic information about accepted coupons such as upper, lower quartile, median, mean, std, min, and max
+#-Descriptive Statistics - Not Accepted Summary: Mainly shows the basic information about not accepted coupons such as upper, lower quartile, median, mean, std, min, and max
+
+#Findings:
+# - Coupon Acceptance: This mainly tells us the summary of the majority of participants accepted coupons, with a significant portion related to less expensive restaurants. Visual exploration indicates potential differences in current time patterns for those accepting and rejecting coupons.
+# - Statistical Interpretation: Descriptive statistics reveal variations in relevant features for those accepting coupons for less expensive restaurants.
+
+# - We need to do Further analysis is needed to confirm statistical significance. We can do that by considering targeted marketing strategies for when coupons are more likely to be accepted and identify time intervals where coupon acceptance is more likely.
+
+#Next Steps: 
+# - Conduct hypothesis testing to validate observed differences.
+# - Explore additional features that may influence coupon acceptance.
+# - Consider surveying participants for qualitative insights.
